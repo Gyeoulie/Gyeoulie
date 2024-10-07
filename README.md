@@ -1,7 +1,7 @@
 # Welcome 🌙
 
 <div align="center">
-![tumblr_62e6fd911901a0db8192df9cc69d0385_b6bd636b_540](https://github.com/user-attachments/assets/493519db-f7ea-48af-9fc2-ea7f49b93f6d)
+   <img src="https://github.com/user-attachments/assets/493519db-f7ea-48af-9fc2-ea7f49b93f6d" alt="new"/>
 </div>
 
 <div align="center">
@@ -27,5 +27,5 @@
 
 
 <div align="center">
-![tumblr_0eb872f2b2b348c13aee70f08c86de11_c8ef435f_540](https://github.com/user-attachments/assets/9b4baae7-ebdc-4112-b1ad-773471236188)
+   <img src="https://github.com/user-attachments/assets/9b4baae7-ebdc-4112-b1ad-773471236188" alt="jeans"/>
 </div>
