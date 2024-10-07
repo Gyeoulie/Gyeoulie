@@ -1,7 +1,7 @@
 # Welcome 🌙
 
 <div align="center">
-![cherrybomb](https://github.com/user-attachments/assets/0469d18f-ca72-4d4e-99c7-d24173fc3df5)
+![tumblr_62e6fd911901a0db8192df9cc69d0385_b6bd636b_540](https://github.com/user-attachments/assets/493519db-f7ea-48af-9fc2-ea7f49b93f6d)
 </div>
 
 <div align="center">
@@ -27,5 +27,5 @@
 
 
 <div align="center">
-![tumblr_0eb872f2b2b348c13aee70f08c86de11_c8ef435f_540](https://github.com/user-attachments/assets/4fbec8f5-2125-45f1-a612-ce4b6fdb8617)
+![tumblr_0eb872f2b2b348c13aee70f08c86de11_c8ef435f_540](https://github.com/user-attachments/assets/9b4baae7-ebdc-4112-b1ad-773471236188)
 </div>
